@@ -1,4 +1,4 @@
-![Banner]([https://i.imgur.com/g3U7yHn.png](https://static.independent.co.uk/2022/05/22/15/SEI105610272.jpg?width=1200))
+![Banner](https://static.independent.co.uk/2022/05/22/15/SEI105610272.jpg?width=1200)
 
 <h1 align="center" style="color:#ff0000;">
   ¡Hola! Soy <span style="color:#ff0000">Blxckbxll24</span> 👨‍💻
